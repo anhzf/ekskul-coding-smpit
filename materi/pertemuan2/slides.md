@@ -113,7 +113,7 @@ layout: two-cols
 ::right::
 
 <div class="demo">
-  <iframe src="/demos/example_html-document.html" class="demo__content"></iframe>
+  <iframe src="/shared-public/demos/example_html-document.html" class="demo__content"></iframe>
 </div>
 
 
@@ -149,7 +149,7 @@ Referensi: [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element), [w3
 ::right::
 
 <div class="demo">
-  <iframe src="/demos/html-typography.html" class="demo__content"></iframe>
+  <iframe src="/shared-public/demos/html-typography.html" class="demo__content"></iframe>
 </div>
 
 
@@ -167,7 +167,7 @@ Untuk membuat link pada HTML, kita bisa menggunakan tag `<a>`, dengan atribut `h
 ::right::
 
 <div class="demo">
-  <iframe src="/demos/html-link.html" class="demo__content"></iframe>
+  <iframe src="/shared-public/demos/html-link.html" class="demo__content"></iframe>
 </div>
 
 
@@ -187,7 +187,7 @@ Untuk membuat gambar pada HTML, kita bisa menggunakan tag `<img>`, dengan atribu
 ::right::
 
 <div class="demo">
-  <iframe src="/demos/html-image.html" class="demo__content"></iframe>
+  <iframe src="/shared-public/demos/html-image.html" class="demo__content"></iframe>
 </div>
 
 
@@ -220,7 +220,7 @@ Untuk membuat item didalam list, kita bisa menggunakan tag `<li>`.
 ::right::
 
 <div class="demo">
-  <iframe src="/demos/html-list.html" class="demo__content"></iframe>
+  <iframe src="/shared-public/demos/html-list.html" class="demo__content"></iframe>
 </div>
 
 
@@ -229,10 +229,10 @@ Untuk membuat item didalam list, kita bisa menggunakan tag `<li>`.
 # Praktek? Gass!!
 
 Silakan membuat halaman web dengan struktur kurang lebih seperti ini:
-[Lihat full](/demos/html-practice1.html)
+[Lihat full](/shared-public/demos/html-practice1.html)
 
 <div class="demo p-0 max-h-45vh">
-  <iframe src="/demos/html-practice1.html" class="demo__content"></iframe>
+  <iframe src="/shared-public/demos/html-practice1.html" class="demo__content"></iframe>
 </div>
 
 
@@ -257,3 +257,11 @@ Minimal harus terdapat:
 - Pada menu file di pojok kiri atas pilih `Open Folder`, arahkan ke folder yang telah dibuat sebelumnya.
 - Buat file dengan nama bebas diakhiri dengan `.html` (saran: index.html).
 - Good luck 😁
+
+
+---
+layout: center
+---
+
+# Terima kasih!
+## Semoga bermanfaat 🔥
