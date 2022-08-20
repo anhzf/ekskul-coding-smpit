@@ -1,0 +1,7 @@
+.demo {
+  @apply w-full h-full p-4 flex flex-col;
+  
+  &__content {
+    @apply grow bg-white p-4 rounded-lg border border-slate-300;
+  }
+}
