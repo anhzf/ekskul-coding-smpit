@@ -8,3 +8,4 @@
 - [Website, Materi, Projek, Asset, dll.](https://ekskul-koding.anhzf.dev)
 - [Form pendataan awal (Pertemuan pertama)](https://bit.ly/CodingSMPITFirstMeet)
 - [Praktikum HTML Dasar](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+- [Link Pengumpulan Tugas Biodata](https://drive.google.com/drive/folders/1Ecn-DWHaUOjVMPhNsE-iZH7hHRjmyqI6?usp=sharing)

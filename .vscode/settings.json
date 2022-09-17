@@ -6,6 +6,6 @@
     "**/CVS": true,
     "**/.DS_Store": true,
     "**/Thumbs.db": true,
-    "**/materi/pertemuan**": true,
+    "materi/pertemuan**": true,
   }
 }
