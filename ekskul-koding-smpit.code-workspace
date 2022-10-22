@@ -8,5 +8,9 @@
       "path": "./materi/pertemuan2/",
       "name": "[MATERI] Pertemuan 2"
     },
-  ]
+  ],
+  "settings": {
+    "liveServer.settings.root": "/materi/web/dist",
+    "liveServer.settings.multiRootWorkspaceName": "$root",
+  }
 }
